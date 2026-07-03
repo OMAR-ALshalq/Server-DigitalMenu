@@ -25,7 +25,8 @@ const io = new Server(server, {
       "http://localhost:5174",
       ,
       "http://localhost:3000",
-      "https://server-digitalmenu.onrender.com"
+      "https://server-digitalmenu.onrender.com",
+      "https://dashboard-digitalmenu.onrender.com"
     ],
     methods: ["GET", "POST"]
   }
